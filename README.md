@@ -1,3 +1,9 @@
+> [!NOTE]
+> **Upstream Repository Origin:**
+> - **Original Repository:** [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+> - **Origin Branch:** `master`
+> - **Last Synced Date:** 2026-10-26
+
 ## 项目的由来
 虽然国内教育网站已提供免费资源，但大多数普通人获取信息的途径依然受限。有些人利用这一点，在某站上销售这些带有私人水印的资源。为了应对这种情况，我计划将这些资源集中并开源，以促进义务教育的普及和消除地区间的教育贫困。
 
